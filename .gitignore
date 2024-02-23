@@ -1,0 +1,5 @@
+.jovianrc
+.virtual_documents/
+data/*
+kaggle.json
+weather-dataset-rattle-package/
